@@ -1,0 +1,143 @@
+{
+    "vehiculos": [
+        {
+            "id": 1,
+            "tipo": "Scooter eléctrico",
+            "marca": "Dualtron",
+            "modelo": "Dolphin",
+            "caracteristicas": "Económico, nuevo, eléctrico.",
+            "image": "https://i.ibb.co/jZ4dBdT/image.png",
+            "published": true
+        },
+        {
+            "id": 2,
+            "tipo": "Scooter eléctrico",
+            "marca": "Kingsong",
+            "modelo": "N15 Pro",
+            "caracteristicas": "Económico, nuevo, eléctrico.",
+            "image": "https://i.ibb.co/C5G2hXP/image.png",
+            "published": true
+        },
+        {
+            "id": 3,
+            "tipo": "Scooter eléctrico",
+            "marca": "Ninebot",
+            "modelo": "E2 Plus",
+            "caracteristicas": "Económico, nuevo, eléctrico.",
+            "image": "https://i.ibb.co/syDc3gb/image.png",
+            "published": true
+        },
+        {
+            "id": 4,
+            "tipo": "Scooter",
+            "marca": "Vsett",
+            "modelo": "Mini Green",
+            "caracteristicas": "Popular, nuevo, eléctrico.",
+            "image": "https://i.ibb.co/bgyR9T7/image.png",
+            "published": true
+        },
+        {
+            "id": 5,
+            "tipo": "Scooter",
+            "marca": "Genérico",
+            "modelo": "Mini",
+            "caracteristicas": "Popular, nuevo, eléctrico.",
+            "image": "https://i.ibb.co/tPZd0RK/image.png",
+            "published": true
+        },
+        {
+            "id": 6,
+            "tipo": "Bicicleta eléctrica",
+            "marca": "Cycool",
+            "modelo": "E-Bike",
+            "caracteristicas": "Económico, nuevo.",
+            "image": "https://i.ibb.co/7z1VtND/image.png",
+            "published": true
+        },
+        {
+            "id": 7,
+            "tipo": "Bicicleta eléctrica",
+            "marca": "Onebot",
+            "modelo": "Plegable",
+            "caracteristicas": "Económico, nuevo, plegable.",
+            "image": "https://i.ibb.co/tZXdWQm/image.png",
+            "published": true
+        },
+        {
+            "id": 8,
+            "tipo": "Bicicleta eléctrica",
+            "marca": "SMRLO",
+            "modelo": "YK-EB009",
+            "caracteristicas": "Económico, nuevo, plegable.",
+            "image": "https://i.ibb.co/WV7VRMm/image.png",
+            "published": true
+        },
+        {
+            "id": 9,
+            "tipo": "Bicicleta",
+            "marca": "Best",
+            "modelo": "BMX",
+            "caracteristicas": "Popular, nuevo.",
+            "image": "https://i.ibb.co/cNxVqBL/image.png",
+            "published": true
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 11,
+            "nombre": "Santiago",
+            "descripcion": "Busco vehículos eléctricos para ayudar al medio ambiente.",
+            "ubicación": "Av. Brasil 702, Breña 15083",
+            "telefono": "954321987",
+            "Vehículos": "Scooters, Bicicletas y Monopatines",
+            "published": true,
+            "image": "https://i.ibb.co/7pgSvf8/image.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Gabriela",
+            "descripcion": "Busco vehículos eléctricos para movilizarme y ayudar al medio ambiente.",
+            "ubicación": "Av. Alvarez Calderón 353, San Isidro 15073",
+            "telefono": "956874556",
+            "Vehículos": "Scooters, Bicicletas y Monopatines",
+            "published": true,
+            "image": "https://i.ibb.co/jbFWbcZ/gabriela.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Robert",
+            "descripcion": "Busco vehículos eléctricos para ayudar al medio ambiente.",
+            "ubicación": "Av. José de la Riva Agüero 408, San Miguel 15087",
+            "telefono": "988567234",
+            "Vehículos": "Scooters y Bicicletas",
+            "published": true,
+            "image": "https://i.ibb.co/nrxSGhs/propietario.jpg"
+        }
+    ],
+    "planes": [
+        {
+            "id": 13,
+            "nombre": "RideStart",
+            "duracion": "30 días",
+            "precio": "Gratis",
+            "vehiculos_disponibles": 3,
+            "published": true
+        },
+        {
+            "id": 14,
+            "nombre": "RidePlus",
+            "duracion": "30 días",
+            "precio": "S/. 10.00",
+            "vehiculos_disponibles": 50,
+            "published": true
+        },
+        {
+            "id": 15,
+            "nombre": "RidePro",
+            "duracion": "60 días",
+            "precio": "S/. 30.00",
+            "vehiculos_disponibles": "Ilimitado",
+            "published": true
+        }
+    ]
+}
